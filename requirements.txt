@@ -1,0 +1,7 @@
+Flask
+Flask-JWT-Extended
+python-dotenv
+Flask-SQLAlchemy
+SQLAlchemy
+FLask-restful
+Flask-cors
